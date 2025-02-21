@@ -10,8 +10,8 @@
 Me apasiona la tecnología y siempre estoy buscando nuevas formas de mejorar y aprender.
 
 ## 🚀 Cursos terminados
-- **Project A**: Mantenimiento y ensamble de computadores
-- **Project B**: Introducción y lógica a la programación
+- **Curso 1**: Mantenimiento y ensamble de computadores
+- **Curso 2**: Introducción a la lógica de la programación
 
 ## 📫 Contacto
 - **GitHub**: [david071820](https://github.com/david071820)
