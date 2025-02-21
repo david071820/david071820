@@ -9,14 +9,13 @@
 
 Me apasiona la tecnología y siempre estoy buscando nuevas formas de mejorar y aprender.
 
-## 🚀 Proyectos Destacados
-- **Project A**: Descripción breve del proyecto A.
-- **Project B**: Descripción breve del proyecto B.
+## 🚀 Cursos terminados
+- **Project A**: Mantenimiento y ensamble de computadores
+- **Project B**: Introducción y lógica a la programación
 
 ## 📫 Contacto
 - **GitHub**: [david071820](https://github.com/david071820)
-- **LinkedIn**: [Tu LinkedIn](#)
-- **Correo**: [tuemail@example.com](mailto:tuemail@example.com)
+- **Correo**: [tuemail@example.com](mailto:david071820@hotmail.com)
 
 ---
 
